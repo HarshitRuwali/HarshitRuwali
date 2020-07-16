@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Workknot-Web](https://github.com/WorkKnot/Workknot-Web).
 - 🌱 I’m currently learning ReactJS.
 - 💬 Ask me about technical stuff, I'm happy to help!
-- 📫 How to reach me: message me at @harshitruwali on Telegram.
+- 📫 How to reach me: message me at @harshitruwali on Telegram or reach out at [Linkedin](http://linkedin.com/in/harshitruwali/).
 - ⚡ Fun fact: All-nighter for programming only, nothing else, not even for Netflix.
