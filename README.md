@@ -3,8 +3,9 @@
   <img align="left" alt="Harshit Ruwali | Twitter" width="21px" src="https://raw.githubusercontent.com/HarshitRuwali/HarshitRuwali/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/harshitruwali/">
-  <img align="left" alt="Harshit Ruwali | Linkedin" width="21px" src="https://raw.githubusercontent.com/HarshitRuwali/HarshitRuwali/master/assets/linkedin.png" />
+  <img align="left" alt="Harshit Ruwali | Linkedin" width="21px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
+<br>
 <br>
 
 <!--
