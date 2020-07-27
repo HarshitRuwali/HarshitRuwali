@@ -3,10 +3,10 @@
   <img align="left" alt="Harshit Ruwali | Telegram" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111644.svg" />
 </a>
 <a href="https://twitter.com/harshitruwali">
-  <img align="left" alt="Harshit Ruwali | Twitter" width="21px" src="https://raw.githubusercontent.com/HarshitRuwali/HarshitRuwali/master/assets/twitter.svg" />
+  <img align="left" alt="Harshit Ruwali | Twitter" width="21px" src="https://raw.githubusercontent.com/HarshitRuwali/HarshitRuwali/master/assets/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/harshitruwali/">
-  <img align="left" alt="Harshit Ruwali | Linkedin" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111628.svg"/>
+  <img align="left" alt="Harshit Ruwali | Linkedin" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111499.svg"/>
 </a>
 
 <br>
