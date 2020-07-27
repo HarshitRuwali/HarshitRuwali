@@ -1,12 +1,12 @@
 ### Hi there I'm [Harshit!](https://harshitruwali.github.io) 👋
 <a href="https://t.me/harshitruwali">
-  <img align="left" alt="Harshit Ruwali | Telegram" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111644.svg" />
+  <img align="left" alt="Harshit Ruwali | Telegram" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111644.svg" />
 </a>
 <a href="https://twitter.com/harshitruwali">
-  <img align="left" alt="Harshit Ruwali | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111499.svg" />
+  <img align="left" alt="Harshit Ruwali | Twitter" width="21px" src="https://raw.githubusercontent.com/HarshitRuwali/HarshitRuwali/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/harshitruwali/">
-  <img align="left" alt="Harshit Ruwali | Linkedin" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111628.svg"/>
+  <img align="left" alt="Harshit Ruwali | Linkedin" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111628.svg"/>
 </a>
 
 <br>
