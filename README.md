@@ -8,7 +8,9 @@
 
 <br>
 <br>
-
+Open Source Developer | Open to Collaborate
+<br>
+Feel free to reach out to me.
 <!--
 **HarshitRuwali/HarshitRuwali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  ...
@@ -22,6 +24,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: message me on [Telegram](https://t.me/harshitruwali) or reach out at [Linkedin](http://linkedin.com/in/harshitruwali/).
 - ⚡ Fun fact: All-nighter for programming only, nothing else, not even for Netflix.
 -->
-
-
-<img src = "https://github-readme-stats.vercel.app/api?username=HarshitRuwali&include_all_commits=true&count_private=true&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+<!--
+img src = "https://github-readme-stats.vercel.app/api?username=HarshitRuwali&include_all_commits=true&count_private=true&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> -->
