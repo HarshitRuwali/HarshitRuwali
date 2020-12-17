@@ -5,10 +5,9 @@
 <a href="https://www.linkedin.com/in/harshitruwali/">
   <img align="left" alt="Harshit Ruwali | Linkedin" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111499.svg"/>
 </a>
-<br>
-<br>
-<img src="http://www.hackthebox.eu/badge/image/415817" alt="Hack The Box">
 
+<br>
+<br>
 Open Source Developer | Open to Collaborate
 <br>
 Feel free to reach out to me.
