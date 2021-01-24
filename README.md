@@ -12,7 +12,9 @@ Open Source Developer | Open to Collaborate
 <br>
 Feel free to reach out to me. <br><br>
 DM me for hints for Hack The Box challenges I solved and machines I hacked. <br><br>
-<img src="http://www.hackthebox.eu/badge/image/415817" alt="Hack The Box" href="https://www.hackthebox.eu/profile/415817">
+<a href="https://www.hackthebox.eu/profile/415817">
+  <img src="http://www.hackthebox.eu/badge/image/415817" alt="Hack The Box" >
+</a>
 
 <!--
 **HarshitRuwali/HarshitRuwali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
