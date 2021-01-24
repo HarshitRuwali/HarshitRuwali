@@ -1,8 +1,8 @@
 ### Hi there I'm [Harshit!](https://harshitruwali.github.io) 👋
-<a href="https://t.me/harshitruwali">
+<a href="https://t.me/harshitruwali" target="_blank">
   <img align="left" alt="Harshit Ruwali | Telegram" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111644.svg" />
 </a>
-<a href="https://www.linkedin.com/in/harshitruwali/">
+<a href="https://www.linkedin.com/in/harshitruwali/" target="_blank">
   <img align="left" alt="Harshit Ruwali | Linkedin" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111499.svg"/>
 </a>
 
@@ -12,7 +12,7 @@ Open Source Developer | Open to Collaborate
 <br>
 Feel free to reach out to me. <br><br>
 DM me for hints for Hack The Box challenges I solved and machines I hacked. <br><br>
-<a href="https://www.hackthebox.eu/profile/415817">
+<a href="https://www.hackthebox.eu/profile/415817" target="_blank">
   <img src="http://www.hackthebox.eu/badge/image/415817" alt="Hack The Box" >
 </a>
 
