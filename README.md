@@ -11,10 +11,8 @@
 Open Source Developer | Open to Collaborate
 <br>
 Feel free to reach out to me. <br>
-
 DM me for hints for Hack The Box challenges I solved and machines I hacked. <br>
-
-[@nightlighter](https://www.hackthebox.eu/profile/415817) in Hack The Box.
+<img src="http://www.hackthebox.eu/badge/image/415817" alt="Hack The Box" href="https://www.hackthebox.eu/profile/415817">
 
 <!--
 **HarshitRuwali/HarshitRuwali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
