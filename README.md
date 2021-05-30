@@ -8,7 +8,7 @@
 
 <br>
 <br>
-Open Source Developer | Open to Collaborate
+Pen-Tester | CTF Player | Open Source Developer 
 <br>
 Feel free to reach out to me. <br><br>
 DM me for hints for Hack The Box challenges I solved and machines I hacked. <br><br>
