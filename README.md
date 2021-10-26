@@ -3,7 +3,7 @@
   <img align="left" alt="Harshit Ruwali | Telegram" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111644.svg" />
 </a>
 <a href="https://www.linkedin.com/in/harshitruwali/" target="_blank">
-  <img align="left" alt="Harshit Ruwali | Linkedin" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111499.svg"/>
+  <img align="left" alt="Harshit Ruwali | Linkedin" width="21px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
 </a>
 
 <br>
